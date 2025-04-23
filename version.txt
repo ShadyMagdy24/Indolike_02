@@ -1,0 +1,8 @@
+Plotly: 5.24.1
+NumPy: 1.26.4
+Pandas: 2.2.2
+Matplotlib: 3.9.2
+Seaborn: 0.13.2
+Scikit-learn: 1.5.1
+Statsmodels: 0.14.2
+SciPy: 1.13.1
